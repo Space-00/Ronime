@@ -1,0 +1,22 @@
+
+**This is my first ever app and I hope you'll love it**
+
+# Ronime
+
+This is a windows app that you can stream or download anime from it for absolutely free without paying a pennie
+
+# ⚠ Important :
+
+Ronime doesn't have, at least for now, any built in vidoe player so you need to set a player in its settings
+Ronime has to support any player that has streaming option but I only tried my two favorite players which are **MPC-BE** and **Potplayer** and they worked like a charm, so you just open an issue in the repo and let me know if your player doesn't work with it
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+**Screenshots of Ronime :**
+
+![App Screenshot](https://www.jmbullion.com/wp-content/uploads/2015/12/xLincoln-Penny-Replacement.jpg.pagespeed.ic.AMTp5hzWcm.jpg)
+
+
+
+
+Just open an issue if you spot any errors or anything in the app
