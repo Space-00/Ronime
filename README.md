@@ -1,19 +1,3 @@
-# My Project Title
-
-
-## Features
-- Feature 1
-- Feature 2
-
-
-
-
-
-
-
-
-
-
 **This is my first ever app and I hope you'll love it**
 
 # Ronime
