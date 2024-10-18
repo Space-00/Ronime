@@ -1,4 +1,4 @@
-**This is my first ever app and I hope you'll love it**
+**This is my first ever app and I hope you'll love it, it is called Ronime and it is for anime lovers**
 
 # Ronime
 
