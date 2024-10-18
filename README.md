@@ -18,7 +18,7 @@ Ronime has to support any player that has streaming option but I only tried my t
 **Screenshots of Ronime :**
 
 <p align="center">
-  <img src="https://www.jmbullion.com/wp-content/uploads/2015/12/xLincoln-Penny-Replacement.jpg.pagespeed.ic.AMTp5hzWcm.jpg" alt="App Screenshot">
+  <img src="https://github.com/Space-00/Ronime/blob/main/1.jpg" alt="App Screenshot">
 </p>
 
 
