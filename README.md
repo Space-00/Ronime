@@ -4,6 +4,8 @@
 
 This is a windows app that you can stream or download anime from it for absolutely free without paying a pennie
 
+Ronime is in baby stages and I still have a lot to add to it but it is usable and pretty nice (I use it myself every day)
+
 # ⚠ Important :
 
 Ronime doesn't have, at least for now, any built in vidoe player so you need to set a player in its settings
