@@ -31,5 +31,5 @@ Ronime has to support any player that has streaming feature but I only tried my 
 
 
 
-
+I know, I know, Ronime interface isn't beautiful and I'll make it better later (If i have time tho)
 Just open an issue if you spot any errors or anything in the app
