@@ -19,7 +19,7 @@ Ronime has to support any player that has streaming feature but I only tried my 
 
 🍿 Streaming - when you wanna stream an anime, Ronime will open the player that you set in its settings for it then it will use that player to stream the anime
 
-⬇ Download links - when you ask for the download links, Ronime will get the download links of that episode or those episodes and put them in a txt file as the same name of that anime, then you open it and see the download links, as beautiful as that (Idk about you guys but free stuff are so cool and satisfying, lol)
+⬇ Downloading - when you ask for the download links, Ronime will get the download links of that episode or those episodes and put them in a txt file as the same name of that anime, then you open it and see the download links, as beautiful as that (Idk about you guys but free stuff are so cool and satisfying, lol)
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
