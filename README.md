@@ -8,7 +8,7 @@
 
 This is a windows app that you can stream or download anime from it for absolutely free without paying a pennie
 
-Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it but it is usable and pretty nice **( I always use it myself )**
+Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it but it is usable and pretty nice **(I always use it myself)**
 
 **some of you might say "Why didn't this guy upload the source code?" that is cause I don't wanna share Ronime's source code and I just wanna share Ronime so that anyone can enjoy anime, forget the code**
 
