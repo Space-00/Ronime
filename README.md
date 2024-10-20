@@ -17,9 +17,9 @@ Ronime is in baby stages and I still have a lot to add to it but it is usable an
 Ronime doesn't have, at least for now, any built in vidoe player so you need to set a player in its settings,
 Ronime has to support any player that has streaming feature but I only tried my two favorite players which are **MPC-BE** and **Potplayer** and they worked like a charm, so you just open an issue in the repo and let me know if your player doesn't work with it
 
-🍿 Streaming - when you wanna stream an anime Ronime will open the player that you set in its settings for it then it will use that player to stream the anime
+🍿 Streaming - when you wanna stream an anime, Ronime will open the player that you set in its settings for it then it will use that player to stream the anime
 
-⬇ Download links - when you ask for the download links Ronime will get the download links of that episode or those episodes and put them in a txt file as the same name of that anime, then you open it and see the download links, as beautiful as that (Idk about you guys but free stuff are so cool and satisfying, lol)
+⬇ Download links - when you ask for the download links, Ronime will get the download links of that episode or those episodes and put them in a txt file as the same name of that anime, then you open it and see the download links, as beautiful as that (Idk about you guys but free stuff are so cool and satisfying, lol)
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
