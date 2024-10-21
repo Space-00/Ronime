@@ -6,7 +6,7 @@
   <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/Logo.png" alt="Logo" width="200" height="200">
 </p>
 
-This is a windows app that you can stream or download anime from it for absolutely free without paying a pennie
+Ronime is a windows app that you can stream or download anime from it for absolutely free without paying a pennie
 
 Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it but it is usable and pretty nice **(I always use it myself)**
 
