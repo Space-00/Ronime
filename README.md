@@ -12,7 +12,9 @@ Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it but
 
 **some of you might say "Why didn't this guy upload the source code?" that is cause I don't wanna share Ronime's source code and I just wanna share Ronime so that anyone can enjoy anime, forget the code**
 
-❗ Disclaimer ❗ : Ronime doesn't host anything, not a single anime
+# ❗ Disclaimer ❗ :
+
+Ronime doesn't host anything, not a single anime, not even the covers, nothing
 
 # ⚠ Important :
 
