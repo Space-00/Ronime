@@ -12,6 +12,8 @@ Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it but
 
 **some of you might say "Why didn't this guy upload the source code?" that is cause I don't wanna share Ronime's source code and I just wanna share Ronime so that anyone can enjoy anime, forget the code**
 
+# ❗ Disclaimer ❗ : Ronime doesn't host anything, not a single anime
+
 # ⚠ Important :
 
 Ronime doesn't have, at least for now, any built in vidoe player so you need to set a player in its settings,
