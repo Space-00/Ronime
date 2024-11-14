@@ -29,6 +29,8 @@ Ronime has to support any player that has streaming feature but I only tried my 
 
 **Screenshots of Ronime :**
 
+I know, I know, Ronime doesn't have a beautiful and fancy appearance and I'll make it better later (idk when though)
+
 <p align="center">
   <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/1.jpg" alt="App Screenshot">
 </p>
@@ -36,9 +38,5 @@ Ronime has to support any player that has streaming feature but I only tried my 
 <p align="center">
   <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/2.jpg" alt="App Screenshot">
 </p>
-
-
-
-I know, I know, Ronime interface isn't beautiful and I'll make it better later (If i have time tho)
 
 Just open an issue if you spot any errors or anything
