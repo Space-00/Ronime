@@ -12,7 +12,7 @@ Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it so 
 
 **some of you might say "Why didn't this guy upload the source code?" that is cause I don't wanna share Ronime's source code and I just wanna share Ronime so that anyone can enjoy anime, forget the code**
 
-Guys I need your feedbacks and ideas or any suggestion, so tell me about them [here](https://github.com/Space-00/Ronime/issues) , thanks you in advance cause I'm a solo developer for this app and I need you guys' feddbacks to make it better
+Guys I need your feedbacks and ideas or any suggestion, so tell me about them [here](https://github.com/Space-00/Ronime/issues) , thank you in advance cause I'm a solo developer for this app and I need you guys' feddbacks to make it better
 
 [Ronime notes](https://github.com/Space-00/Ronime/blob/main/Version.md)
 
