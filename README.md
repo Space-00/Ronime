@@ -25,6 +25,8 @@ Ronime has to support any player that has streaming feature but I only tried my 
 
 ⬇ Downloading ⬇ - when you ask for the download links, Ronime will get the download links of that episode or those episodes and put them in a txt file as the same name of that anime, then you open it and see the download links, as beautiful as that
 
+[Ronime notes](https://github.com/Space-00/Ronime/blob/main/Version.md)
+
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 **Screenshots of Ronime :**
