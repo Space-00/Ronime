@@ -12,6 +12,8 @@ Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it so 
 
 **some of you might say "Why didn't this guy upload the source code?" that is cause I don't wanna share Ronime's source code and I just wanna share Ronime so that anyone can enjoy anime, forget the code**
 
+[Ronime notes](https://github.com/Space-00/Ronime/blob/main/Version.md)
+
 # ❗ Disclaimer ❗ :
 
 Ronime doesn't host anything, not a single anime, not even the covers, nothing
@@ -24,8 +26,6 @@ Ronime has to support any player that has streaming feature but I only tried my 
 🍿 Streaming 🍿 - when you wanna stream an anime, Ronime will open the player that you set in its settings for it then it will use that player to stream the anime
 
 ⬇ Downloading ⬇ - when you ask for the download links, Ronime will get the download links of that episode or those episodes and put them in a txt file as the same name of that anime, then you open it and see the download links, as beautiful as that
-
-[Ronime notes](https://github.com/Space-00/Ronime/blob/main/Version.md)
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
