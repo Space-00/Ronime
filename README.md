@@ -16,4 +16,6 @@ Guys I need your feedbacks and ideas or any suggestion, so tell me about them [h
 
 Ronime doesn't host anything, not a single anime, nothing
 
+
+and at last:
 Just open an issue if you spot any errors or anything
