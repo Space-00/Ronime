@@ -36,11 +36,11 @@ Ronime has to support any player that has streaming feature but I only tried my 
 I know, I know, Ronime doesn't have a beautiful and fancy appearance and I'll make it better later (idk when though)
 
 <p align="center">
-  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/1.jpg" alt="App Screenshot">
+  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/o1.jpg" alt="App Screenshot">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/2.jpg" alt="App Screenshot">
+  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/o2.jpg" alt="App Screenshot">
 </p>
 
 Just open an issue if you spot any errors or anything
