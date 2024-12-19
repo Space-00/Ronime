@@ -12,6 +12,8 @@ Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it
 
 Download Ronime from [here](https://github.com/Space-00/Ronime/releases)
 
+Don't forget to give the repository a star to show me your support
+
 *Tip* : You gotta use a tag while searching if you want to have an organized list of an anime, Where are the tags? This is where the tags are 👇🏻
 
 <p align="center">
