@@ -28,7 +28,7 @@ Ronime doesn't host anything, not a single anime, nothing
 
 **Screenshots of Ronime :**
 
-Ronime was programmed to be simnple and easy to use
+Ronime was programmed to be simple and easy to use
 
 <p align="center">
   <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/1.jpg" alt="App Screenshot">
