@@ -1,4 +1,4 @@
-## This is my app version notes
+## This is Ronime version notes
 
 V1.0:
 
