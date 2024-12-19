@@ -12,7 +12,7 @@ Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it
 
 [Ronime versions' notes](https://github.com/Space-00/Ronime/blob/main/Version.md)
 
-*Tip*: You gotta use a tag if you want to have an organized list of an anime, What is tag? This is where tags are 👇🏻
+*Tip* : You gotta use a tag if you want to have an organized list of an anime, What is a tag? This is where the tags are 👇🏻
 
 <p align="center">
   <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/Tags.jpg" alt="App Screenshot">
