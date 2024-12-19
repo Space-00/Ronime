@@ -10,7 +10,13 @@ Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it
 
 🗣️ Important 🗣️ :Guys I need your feedbacks and ideas or any suggestion, so tell me about them [here](https://github.com/Space-00/Ronime/issues) , thank you in advance cause I'm a solo developer for this app and I need you guys' feddbacks to make it better
 
-[Ronime notes](https://github.com/Space-00/Ronime/blob/main/Version.md)
+[Ronime versions' notes](https://github.com/Space-00/Ronime/blob/main/Version.md)
+
+# Tip: You gotta use a tag if you want to have an organized list of an anime, What is tag? This is where tags are 👇🏻
+
+<p align="center">
+  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/Tags.jpg" alt="App Screenshot">
+</p>
 
 # ❗ Disclaimer ❗ :
 
