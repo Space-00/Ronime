@@ -1,4 +1,4 @@
-## This is Ronime version notes
+## Ronime version notes
 
 V1.0:
 
