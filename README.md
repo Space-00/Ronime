@@ -10,7 +10,8 @@ Ronime is in 👶🏻baby👶🏻 stages and I still have a lot to add to it
 
 👂🏻 Important 👂🏻 :Guys I need your feedbacks and ideas or any suggestion, so tell me about them [here](https://github.com/Space-00/Ronime/issues) , thank you in advance cause I'm a solo developer for this app and I need you guys' feddbacks to make it better
 
-⚠WARNING⚠: use Ronime only with a vpn (you can download without vpn but for the search you need vpn no matter where you are, otherwise you see an error saying no results were found)
+#⚠WARNING⚠ : 
+use Ronime only with a vpn (you can download without vpn but for the search you need vpn no matter where you are, otherwise you see an error saying no results were found)
 
 Download Ronime from [here](https://github.com/Space-00/Ronime/releases)
 
